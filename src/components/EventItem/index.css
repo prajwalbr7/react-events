@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.list-container {
+  list-style-type: none;
+}
+.img-sizing-list {
+  width: 300px;
+  height: 150px;
+}
+.list-heading-style {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  color: #ffffff;
+}
+.list-para-style {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: 400;
+  color: #ffffff;
+}
+.button-style {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+}
+.border-style {
+  border: 2px solid #2dd4bf;
+  border-radius: 8px;
+}

@@ -1,0 +1,56 @@
+/* Write your CSS here */
+.registeration-container {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.Active-DefaultPage-heading-style {
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 400;
+  color: #64748b;
+}
+.yet-to-register-img {
+  width: 80%;
+  height: 400px;
+}
+.yet-to-para-style {
+  font-family: 'Roboto';
+  font-size: 16px;
+  font-weight: 400;
+  color: #64748b;
+  text-align: center;
+  width: 70%;
+}
+.yest-to-button {
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #0967d2;
+  width: 150px;
+  border-width: 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.registred-heading-style {
+  font-family: 'Roboto';
+  font-size: 23px;
+  font-weight: bold;
+  color: #323f4b;
+  width: 50%;
+  text-align: center;
+}
+.registred-img-size {
+  width: 150px;
+  height: 150px;
+}
+.registerdClosed-img-style {
+  width: 70%;
+  height: 400px;
+}

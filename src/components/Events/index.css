@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.container1 {
+  height: 100vh;
+  display: flex;
+}
+.container2 {
+  width: 50%;
+
+  background-color: #64748b;
+  padding-top: 1px;
+
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.Main-heading-style {
+  font-family: 'Roboto';
+  font-size: 35px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.ul-container {
+  padding: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
